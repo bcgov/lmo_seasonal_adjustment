@@ -1,33 +1,12 @@
-<!-- 
-Add a project state badge
+[![Lifecycle:Experimental](https://img.shields.io/badge/Lifecycle-Experimental-339999)]
 
-See <https://github.com/BCDevExchange/Our-Project-Docs/blob/master/discussion/projectstates.md> 
-If you have bcgovr installed and you use RStudio, click the 'Insert BCDevex Badge' Addin.
--->
 
-boilerplate
+LMO seasonal adjustment
 ============================
 
 ### Usage
 
-Describe data being used (links), and how to run. Eg:
-
-There are four core scripts that are required for the analysis, they need to be run in order:
-
--   01\_clean.R
--   02\_analysis.R
--   03\_visualize.R
--   04\_output.R
-
-#### Example
-
-This is a basic example which shows you how to solve a common problem:
-
-``` r
-## basic example code
-```
-
-### Project Status
+source file 01_source_for_seasonal_adjustment.R
 
 ### Getting Help or Reporting an Issue
 
